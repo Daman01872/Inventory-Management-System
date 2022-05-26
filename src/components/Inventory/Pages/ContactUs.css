@@ -1,0 +1,134 @@
+
+.bodybg{
+    background-image: url(/src/components/Inventory/Images/contactbg.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.contact {
+    height: 688px;
+    /* width: 800px; */
+    margin: auto;
+    background-color: rgb(0, 0, 0);
+    background-color: rgba(0, 0, 0, 0.7);
+    /* border: 5px solid #f1f1f1; */
+}
+
+.col2 {
+    height: 600px;
+    width: 700px;
+    margin-top: 40px;
+    margin-left: 400px;
+    background-color: rgb(0, 0, 0);
+    background-color: rgba(0, 0, 0, 0.4);
+    border: 5px solid #f1f1f1;
+    float: left;
+}
+.col2 form {
+    margin-top: 30px;
+    width: 600px;
+    margin-left: 45px;
+}
+
+.col2 h1 {
+    font-size: 45px;
+    margin-top: 20px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #fff;
+}
+.label{
+    color: #fff;
+    font-size: 20px;
+}
+
+#btn {
+    height: 45px;
+    width: 150px;
+    font-size: 20px;
+    margin-left: 250px;
+    margin-top: 20px;
+    background: rgb(252, 233, 26);
+    border-color: rgb(252, 233, 26) ;
+    color: black;
+
+    border-radius: 200px;
+    
+}
+
+
+/* ------------footer--------------- */
+
+.footer2 {
+    background: #000;
+    color: #8a8a8a;
+    font-size: 14px;
+    padding: 60px 0 20px;
+    margin-top: 50px;
+
+    /* text-align: center; */
+}
+
+.footer p {
+    color: #8a8a8a;
+}
+
+.footer h3 {
+    color: #fff;
+    margin-bottom: 20px;
+}
+
+.footer-col-1, .footer-col-2, .footer-col-3, .footer-col-4 {
+    min-width: 250px;
+    margin-bottom: 20px;
+}
+
+.footer-col-1 {
+    flex-basis: 30%;
+}
+
+
+.footer-col-2 {
+    flex: 1;
+    text-align: center;
+}
+.footer-col-2 img{
+    width: 140px;
+    height: 45px;
+    margin-bottom: 30px;
+}
+.footer-col-3, .footer-col-4{
+flex-basis: 12%;
+text-align: center;
+
+}
+ul{
+    list-style-type: none;
+}
+/* .footer-col-3 ul li, .footer-col-4 ul li{
+    list-style: none;
+} */
+.app-logo{
+    margin-top: 20px;
+}
+.app-logo img{
+    width: 140px;
+    margin-left: 10px;
+
+}
+
+.footer hr{
+    border: none;
+    background: #b5b5b5;
+    height: 1px;
+    margin: 20px 0;
+}
+.copyright{
+  /* justify-content: center; */
+  text-align: center;
+}
+
+.menu-icon{
+    width: 28px;
+    margin-left: 20px;
+    display: none;
+}

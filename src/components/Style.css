@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.main{
+    
+    background: linear-gradient(to top,rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('https://c4.wallpaperflare.com/wallpaper/9/519/764/mountains-best-for-desktop-background-wallpaper-preview.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+.navbar{
+    height : 75px;
+    margin: auto;
+}
+.icon{
+    width: 250px;
+    float: left;
+    height: 70px;
+
+}
+.logo{
+    color: #E74C3C;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-left: 20px;
+    float: left;
+    padding-top: 30px;
+
+}
+
+.content{
+    width: 950px;
+    height: auto;
+    padding-top: 65px;
+    margin-left: 30px;
+    position: relative;
+    color: aliceblue;
+    float: left;
+    
+}
+.content .par{
+    padding-top: 15px;
+    line-height: 30px;
+    letter-spacing: 2px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    /* letter-spacing: 1.2px;
+    line-height: 30px; */
+}
+.content .h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 2px;
+    font-size: 55px;
+}
+.content .cn{
+    margin-top: 15px;
+    width: 160px;
+    height: 45px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    background: #E74C3C;
+    cursor: pointer;
+    font-size: 24px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: none;
+    transition: width 2s;
+}
+.content .cn a{
+    text-decoration: none;
+    color: #000;
+    transition: .4s ease;
+}
+.cn:hover{
+    width: 280px;
+    background-color: white;
+}
+.content span{
+    color: #E74C3C;
+}
+
+

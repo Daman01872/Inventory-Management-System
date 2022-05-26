@@ -1,0 +1,59 @@
+.inventory-back{
+    background-color: darksalmon;
+}
+.cards{
+    margin-top: 15px;
+}
+.card{
+    margin-left: 35px;
+}
+.test1{
+    width: 13rem;
+    
+}
+.img-size{
+    width: 375px;
+    height: 380px;
+    object-fit: cover;
+    object-position: center center;
+    padding: 15px;   
+}
+.img-content{
+    text-align: center;
+}
+.swiper-img{
+    width: 1250px;
+    margin-left: auto;
+}
+.card-img{
+    width: 80px;
+    height: 150px;
+}
+.caursel-size{
+    padding-top: 10px;
+    width: 700px;
+    height: 450px;
+    margin: auto;
+}
+.text_align{
+    text-align: center;
+    /* align-content: center; */
+    margin: auto;
+}
+.button_align{
+    /* justify-content: center; */
+    margin-left: 55px;
+}
+.img_size{
+    width: 700px;
+    height: 400px;
+}
+.caursel_text{
+    color: black;
+}
+.new_text{
+    margin-top: 30px;
+}
+.content_text{
+    text-align: center;
+}
